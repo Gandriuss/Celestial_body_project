@@ -374,7 +374,7 @@ SELECT pg_catalog.setval('public.planet_planet_id_seq', 14, true);
 -- Name: star_star_id_seq; Type: SEQUENCE SET; Schema: public; Owner: freecodecamp
 --
 
-SELECT pg_catalog.setval('public.star_star_id_seq', 1, true);
+SELECT pg_catalog.setval('public.star_star_id_seq', 6, true);
 
 
 --
